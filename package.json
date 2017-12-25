@@ -1,0 +1,21 @@
+{
+  "name": "catherine-website",
+  "private": true,
+  "description": "A personal website for Catherine Teichman",
+  "scripts": {
+    "start": "http-server -o"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/effervescentia/catherine-website.git"
+  },
+  "author": "Ben Teichman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/effervescentia/catherine-website/issues"
+  },
+  "homepage": "https://github.com/effervescentia/catherine-website#readme",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
